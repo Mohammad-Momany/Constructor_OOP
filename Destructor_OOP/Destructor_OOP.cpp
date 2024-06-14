@@ -7,7 +7,7 @@ public:
 
     // This is the constructor that will be called when the object is created.
     clsPerson() {
-        FullName = "Mohammed Abu-Hadhoud";
+        FullName = "Mohammed Al-Momany";
         cout << "\nHi, I'm Constructor";
     }
 
